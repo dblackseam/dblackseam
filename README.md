@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[Ivory Grey Minimalist Business LinkedIn Banner (3)](https://user-images.githubusercontent.com/89835538/174595410-09923fa1-3f6b-4a64-ad38-7dec76e3c410.png)
+![Ivory Grey Minimalist Business LinkedIn Banner (3)](https://user-images.githubusercontent.com/89835538/174595410-09923fa1-3f6b-4a64-ad38-7dec76e3c410.png)
 
-**dblackseam/dblackseam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **dblackseam/dblackseam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+<!-- -->
+ -->
