@@ -4,4 +4,4 @@
 I am a backend python developer. I have a great desire to learn literally anything related to programming. I am looking for an opportunity to realize my potential and produce the maximum benefit to my future workplace.
 
 - 🖥 All of my projects are avaliable at [https://github.com/dblackseam](https://github.com/dblackseam?tab=repositories)
-- ✉ How to reach me: **danil.chernyshev997@gmail.com**
+- ✉ How to reach me: **danil.chernyshev.997@gmail.com**
